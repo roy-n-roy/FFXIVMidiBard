@@ -1,6 +1,9 @@
 # FFXIVMidiBard
 Bard in FFXIV plays music by your MIDI keyboard.
 
+## Download
+**[Releases](https://github.com/roy-n-roy/FFXIVMidiBard/releases)**
+
 ## これは何?
 MIDIキーボードで吟遊詩人の楽器演奏をするためのツールです。
 
@@ -15,3 +18,9 @@ MIDIキーボードで吟遊詩人の楽器演奏をするためのツールで�
 
 ## Screenshots
 ![main_view](https://raw.githubusercontent.com/roy-n-roy/FFXIVMidiBard/master/image/main_view.png)
+
+# アイコンについて
+FFXIV ファンキットを使用しています。
+
+記載されている会社名・製品名・システム名などは、各社の商標、または登録商標です。  
+Copyright (C) 2010 - 2019 SQUARE ENIX CO., LTD. All Rights Reserved. 
