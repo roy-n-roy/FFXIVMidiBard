@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# Visual C++
+*.opt
+*.clw
+*.ncb
+*.aps
+*.mak
+*.suo
+*.pdb
+*.vcxproj.user
+*/.vs
+.vs
+*/Debug
+Debug
+*/Release
+Release
