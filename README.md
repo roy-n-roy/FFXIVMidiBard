@@ -1,4 +1,5 @@
 # FFXIVMidiBard
+[![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://github.com/roy-n-roy/FFXIVMidiBard/blob/master/LICENSE)
 Bard in FFXIV plays music by your MIDI keyboard.
 
 ## Download
